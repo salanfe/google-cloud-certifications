@@ -11,6 +11,10 @@ general material relevant for all certifications
 * review & understand the [Security foundations blueprint](https://cloud.google.com/architecture/security-foundations) (PDF document). It unpacks a lot of valuable information.
 * [Google Skills Boost](https://www.cloudskillsboost.google/paths) offers learning paths for each certifications. Good content with a mix of videos and labs.
 
+# Tools
+
+* handy webtool for subnetting: https://visualsubnetcalc.com/
+
 # Cloud Architect
 homepage: https://cloud.google.com/learn/certification/cloud-architect
 
