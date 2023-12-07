@@ -13,7 +13,10 @@ general material relevant for all certifications
 
 # Tools
 
-* handy webtool for subnetting: https://visualsubnetcalc.com/
+handy webtool for subnetting:
+* https://visualsubnetcalc.com/
+* https://next.lightmesh.com/planner
+* https://www.davidc.net/sites/default/subnets/subnets.html
 
 # Cloud Architect
 homepage: https://cloud.google.com/learn/certification/cloud-architect
