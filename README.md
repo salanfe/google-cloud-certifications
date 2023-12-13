@@ -30,6 +30,7 @@ review fundamental knowledge
 [Practical Networking](https://www.youtube.com/@PracticalNetworking)
 * Youtuble playlist [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi) from the channel 
 [Practical Networking](https://www.youtube.com/@PracticalNetworking)
+* Youtube video [Pod networking for Kubernetes on Google Cloud](https://www.youtube.com/watch?v=sDsWmdMniNs)
 
 Must know resources
 * [compare interconnect solutions](https://cloud.google.com/network-connectivity/docs/how-to/choose-product#compare-interconnect-solutions)
